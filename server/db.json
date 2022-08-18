@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "name": "Bia",
+      "email": "bia@yahoo.com",
+      "telephone": "11987635333",
+      "id": 9
+    },
+    {
+      "name": "Bel",
+      "email": "bi@yahoo.com",
+      "telephone": "11987635333",
+      "id": 13
+    },
+    {
+      "name": "Hibertone",
+      "email": "hi62@gmail.com",
+      "telephone": "995863421",
+      "id": 14
+    }
+  ]
+}
